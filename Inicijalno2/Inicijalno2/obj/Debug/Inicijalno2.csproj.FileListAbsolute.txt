@@ -1,0 +1,8 @@
+C:\Users\Osoba\Documents\Skola\Inicijalno2\Inicijalno2\bin\Debug\Inicijalno2.exe.config
+C:\Users\Osoba\Documents\Skola\Inicijalno2\Inicijalno2\bin\Debug\Inicijalno2.exe
+C:\Users\Osoba\Documents\Skola\Inicijalno2\Inicijalno2\bin\Debug\Inicijalno2.pdb
+C:\Users\Osoba\Documents\Skola\Inicijalno2\Inicijalno2\obj\Debug\Inicijalno2.csproj.AssemblyReference.cache
+C:\Users\Osoba\Documents\Skola\Inicijalno2\Inicijalno2\obj\Debug\Inicijalno2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Osoba\Documents\Skola\Inicijalno2\Inicijalno2\obj\Debug\Inicijalno2.csproj.CoreCompileInputs.cache
+C:\Users\Osoba\Documents\Skola\Inicijalno2\Inicijalno2\obj\Debug\Inicijalno2.exe
+C:\Users\Osoba\Documents\Skola\Inicijalno2\Inicijalno2\obj\Debug\Inicijalno2.pdb
